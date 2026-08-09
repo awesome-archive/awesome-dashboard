@@ -11,14 +11,39 @@ A curated list of amazingly awesome dashboards/visualization resources.
 
 See [Contribution Guidelines](#contribution-guidelines)
 
+## Sponsors
+
+<p align="center">
+  <a href="https://nuntly.com">
+    <img src="https://nuntly.com/images/og-image-v2.png" alt="Nuntly">
+  <br>Nuntly is Developer-First Email Platform
+  </a>
+</p>
+
 ## General
 
-* [Dashing](http://shopify.github.io/dashing/) - The exceptionally handsome dashboard framework.
+* [Smashing](https://github.com/Smashing/smashing) - Spriritual successor to [Dashing](http://shopify.github.io/dashing/) - The exceptionally handsome dashboard framework.
 * [Freeboard](https://github.com/Freeboard/freeboard) - An open source real-time dashboard builder for IOT and other web mashups.
-* [Grafana](http://grafana.org/) - A dasboard editor for visualizing time series data.
+* [GoatCounter Dashboard](https://github.com/abhishekhsingh/goatcounter-dashboard) - Modern analytics dashboard for GoatCounter with interactive charts, choropleth world map, and demo mode. Single HTML file, no build step.
+* [Grafana](http://grafana.org/) - A dashboard editor for visualizing time series data.
 * [Kibana](https://github.com/elasticsearch/kibana) - Kibana is a browser based analytics and search interface to Logstash and other timestamped data sets stored in [ElasticSearch](http://www.elasticsearch.org/).
 * [Mozaik](http://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / d3 / stylus / d3 to craft beautiful dashboards, it ships with several widgets plus themes and can be easily extended.
-* [Pydashie](https://github.com/evolvedlight/pydashie) - Python port of dashing
+* [Pydashie](https://github.com/evolvedlight/pydashie) - Python port of dashing.
+* [querybear.com](https://querybear.com) - Ask your data anything – with persistent memory, schema learning, and more.
+* [ez-Dashing](https://github.com/ylacaute/ez-Dashing) - A free dashboard for agile development team, based on React/redux, ready to use with Docker.
+* [Metricio](https://metricio.github.io/) - ⚡ Fast & simple dashboards for all your metrics. Using Node.js and React. ⚡
+* [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
+* [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) - Free monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts.
+* [Turnilo](https://github.com/allegro/turnilo) - Business intelligence, data exploration and visualization web application for Druid, formerly know as Swiv and Pivot.
+* [Apache Superset](https://github.com/apache/incubator-superset) - a modern, enterprise-ready business intelligence web application (previously named Caravel and Panoramix).
+* [awe](https://github.com/dankilman/awe) - A framework for creating dynamic web based reports and dashboards.
+* [frolic](https://github.com/FrolicOrg/Frolic) - Backend service to build customer facing dashboards 10x faster. Written in Rust.
+* [AppRankly](https://github.com/zmsp/AppRankly) - Self-hosted mobile app store analytics dashboard for iOS App Store Connect and Google Play Console.
+* [AppSmith](https://github.com/appsmithorg/appsmith)) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+* [StyleBI](https://github.com/inetsoft-technology/stylebi) - App for dashboards and analytics with data pipeline for transformation and mashup.
+* [Shaper](https://taleshape.com/shaper/docs/) - Open-Source SQL-First, Data Dashboards and Embedded Analytics. Powered By DuckDB.
+* [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - A personal genome analysis toolkit that generates a single-page DNA Terminal dashboard with green-on-black terminal aesthetic.
+* [Xenon](https://github.com/marcimastro98/Xenon) - Local all-in-one PC dashboard that runs in any browser or on the CORSAIR Xeneon Edge touchscreen: system monitor, media, mic, voice AI, a Stream-Deck grid, and RGB lighting. 100% local, no account.
 
 ## Graphite
 
@@ -32,18 +57,18 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [Graph-explorer](http://vimeo.github.io/graph-explorer/) - A graphite dashboard that's different, from [Vimeo](https://github.com/vimeo)
 * [Graphite observer](https://github.com/huoxy/graphite-observer) - A realtime monitor dashboard for graphite.
 * [Graphiti](https://github.com/paperlesspost/graphiti) - An alternate JavaScript and Ruby front-end and graph storage.
-* [Graphitus](https://github.com/ezbz/graphitus) - A simple graphite based dashboard system
+* [Graphitus](https://github.com/ezbz/graphitus) - A simple graphite based dashboard system.
 application for the Graphite Real-time graphing engine.
 * [Orion](https://github.com/gree/Orion) - Provides an easy way to create and manage custom dashboards of your Graphite data.
 * [Tattle](https://github.com/wayfair/Graphite-Tattle) - A self service alerting and dashboard frontend for graphite and ganglia.
 * [Tasseo](https://github.com/obfuscurity/tasseo) - Live dashboard for Graphite.
 * [Tessera](http://urbanairship.github.io/tessera/) - A web application for constructing elegant, interactive presentations of data from Graphite.
 
-## Ganglia
+## Ganglia
 
-## InfluxDB
+## InfluxDB
 
-* [Influga](https://github.com/hakobera/influga) - A InfluxDB Dashboard and Graph Editor
+* [Influga](https://github.com/hakobera/influga) - A InfluxDB Dashboard and Graph Editor.
 
 ## Sensu
 
@@ -52,9 +77,12 @@ application for the Graphite Real-time graphing engine.
 ## Others
 
 * [Canopsis](https://github.com/capensis/canopsis) - Canopsis is an open-source hypervisor whose goal is to aggregate/consolidate information and events.
-* [Countly](https://github.com/countly/countly-server) - An open source, mobile & web analytics dashboard
+* [Countly](https://github.com/countly/countly-server) - An open source, mobile & web analytics dashboard.
 * [Hawtio](http://hawt.io) - A  modular web console for managing your Java stuff.
-* [Hystrix Dashboard](https://github.com/Netflix/Hystrix/tree/master/hystrix-dashboard) - The [Hystrix](https://github.com/Netflix/Hystrix) Dashboard enables realtime monitoring of Hystrix metrics.
+* [Hystrix Dashboard](https://github.com/Netflix-Skunkworks/hystrix-dashboard) - The [Hystrix](https://github.com/Netflix/Hystrix) Dashboard enables realtime monitoring of Hystrix metrics.
+* [ng2 Admin](https://github.com/akveo/ng2-admin) - Solid Angular2 admin dashboard, based on [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter)
+* [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with 150+ real-time monitoring cards and CNCF integrations.
+* [OpenChainBench](https://openchainbench.com) - Public dashboards for blockchain RPC provider benchmarks. Multi-region Prometheus scraping with a Next.js front-end, all data and methodology exposed.
 
 # Contribution Guidelines
 
